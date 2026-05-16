@@ -1,2 +1,2 @@
 # roomserp
-rooms rep platformu
+rooms erp platformu
